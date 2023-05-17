@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발개발 👋
 
 <!--
 **koratoo/koratoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
