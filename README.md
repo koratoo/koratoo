@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### Hi there 👋 I'm Ji Seong Kim <br/> ⛏Position : System Integrated Engineer <br> 🏩 Gasan Digital Valley 
+### Hi there 👋 I'm Ji Seong Kim <br/>
 
 ## 💻 My Stack
 ### ⚔Major Language⚔
