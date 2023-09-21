@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lears98)](https://solved.ac/lears98/)
 
-### Hi there 👋 </br>I'm Ji Seong Kim <br/> ⛏Position : System Integrated Engineer <br> 🏩 Gasan Digital Valley 
+### Hi there 👋 I'm Ji Seong Kim <br/> ⛏Position : System Integrated Engineer <br> 🏩 Gasan Digital Valley 
 
 ## 💻 My Stack
 ### ⚔Major Language⚔
