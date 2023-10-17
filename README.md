@@ -7,7 +7,6 @@
 ### ⚔Major Language⚔
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koratoo&show_icons=true&theme=radical)
 
 ### ⚔Framework⚔
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black"/> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/><br>
@@ -27,5 +26,8 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lears98)](https://solved.ac/lears98/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koratoo&show_icons=true&theme=radical)
 
 </div>
