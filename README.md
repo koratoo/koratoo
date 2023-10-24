@@ -24,7 +24,7 @@
 
 ### And Also...
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="PHP" src ="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> 
-
+<img alt="postgresql" src ="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lears98)](https://solved.ac/lears98/)
 
 
