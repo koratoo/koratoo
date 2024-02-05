@@ -30,6 +30,8 @@
 
 
 <br>
+### 2023 COMMIT STATUS
+![image](https://github.com/koratoo/koratoo/assets/96603612/171eadf1-a65f-4fed-8b91-104589cb889c)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koratoo&show_icons=true&theme=radical)
