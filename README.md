@@ -3,8 +3,8 @@
 
 ### Hi there 👋 I'm Ji Seong Kim <br/>
 
-#### Career
-I wrote the frontend code to handle the branching from the main page of Samsung.com to the iOS main page and created the iOS-specific categorization code. Additionally, I developed a management page in the admin panel where the iOS GNB menu, main screen, and components can be managed.
+### My Career 
+I wrote the frontend code to handle the branching from the main page of Samsung.com to the iOS main page and created the iOS-specific categorization code. Additionally, I developed a management page in the admin panel where the iOS GNB menu, main screen, and components can be managed.I am currently working on batch development tasks with the Salesforce Heroku team at a Hyundai AutoEver partner company.
 
 ## 💻 My Stack
 ### ⚔Major Language⚔
