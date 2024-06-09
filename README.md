@@ -3,6 +3,9 @@
 
 ### Hi there 👋 I'm Ji Seong Kim <br/>
 
+#### Career
+I wrote the frontend code to handle the branching from the main page of Samsung.com to the iOS main page and created the iOS-specific categorization code. Additionally, I developed a management page in the admin panel where the iOS GNB menu, main screen, and components can be managed.
+
 ## 💻 My Stack
 ### ⚔Major Language⚔
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <br>
