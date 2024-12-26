@@ -34,10 +34,6 @@ I wrote the frontend code to handle the branching from the main page of Samsung.
 
 <br>
 
-### 2023 COMMIT History <br>
-
-![image](https://github.com/koratoo/koratoo/assets/96603612/171eadf1-a65f-4fed-8b91-104589cb889c)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koratoo&show_icons=true&theme=radical)
 
